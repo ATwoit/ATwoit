@@ -11,18 +11,18 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 
 ## 🖥️ Operating Systems
 
-### Linux Distributions
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=333333)
-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FEFEFE)
+### [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=333333)] Distributions
+
+ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FEFEFE)
  ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white)
  ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
  ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
 ---
 
-### Windows Operating Systems
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FEFEFE) 
-- ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE) 
+### [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FEFEFE)] Operating Systems
+ 
+ ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE) 
  ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE) 
  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
 
@@ -30,7 +30,7 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 
 ### 📦 More Operating Systems
 ![MacOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-- ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white)
+ ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white)
  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white)
 
 
