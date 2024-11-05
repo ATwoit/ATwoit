@@ -2,6 +2,8 @@
 
 ## 👋 Hi there! I'm an Information Technology Specialist and a DevOps Engineer.
 
+
+## About me
 I'm passionate about leveraging technology to solve problems and streamline processes. I love learning new tools and methodologies in the ever-evolving field of IT. 🌐💻
 
 ## 🖥️ Operating Systems
@@ -21,6 +23,13 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FEFEFE)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=FEFEFE)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FEFEFE)
+![Networking](https://img.shields.io/badge/-Networking-0078D6?style=for-the-badge&logo=Network-Manager&logoColor=FEFEFE)
+
+
+## 🐍 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FEFEFE)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=FEFEFE)
+
 
 ## 🚀 My Goals
 I'm constantly looking to improve my skills and tackle new challenges. I aim to become an expert in cloud technologies and automation. Let's build amazing things together! 💡🤝
