@@ -26,6 +26,8 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FEFEFE)
 
   
-  
 
-Follow me
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cavadov_S)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyfulla-javadov-36206330a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYuI6fODwTi%2BGgcPYIH4uaw%3D%3D
+)
