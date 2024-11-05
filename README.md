@@ -1,6 +1,9 @@
 ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/header_gif.gif)
 
-## 👋 Hi there! I'm an Information Technology Specialist and a DevOps Engineer.
+## 👋 Hi there! I'm an DevOps Engineer | Network Administrator
+
+- I am engaged in raising and deploying virtual machines, writing code and scripts for software automation
+- Setting up network equipment and building topologies. Setting up network and equipment protection
 
 
 ## About me
@@ -26,7 +29,7 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 ![Networking](https://img.shields.io/badge/-Networking-0078D6?style=for-the-badge&logo=Network-Manager&logoColor=FEFEFE)
 
 
-## 🐍 Programming Languages
+## 🐍 Programming Languages | Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FEFEFE)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=FEFEFE)
 
