@@ -11,11 +11,16 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 
 ## 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=333333)
+ | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FEFEFE)
+ ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white)
+ ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
+ ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FEFEFE)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FEFEFE)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+ | ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
+ ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
+ ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
+ 
 
 ## ⚙️ DevOps Tools
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=FEFEFE)
