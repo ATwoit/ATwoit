@@ -1,6 +1,6 @@
 ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/header_gif.gif)
 
-## 👋 Hi there! I'm an DevOps Engineer | Network Administrator
+## 👋 Hi there! I'm an DevOps Engineer 
 
 - I am engaged in raising and deploying virtual machines, writing code and scripts for software automation
 - Setting up network equipment and building topologies. Setting up network and equipment protection
