@@ -10,7 +10,7 @@
 
 ---
 
-## ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/TUOk.gif) About Me
+## <img src="https://github.com/ATwoit/ATwoit/blob/main/assets/TUOk.gif" width="40" height="40" /> About Me
 
 <div style="text-align: center;">
   I'm passionate about leveraging technology to solve problems and streamline processes. I love learning new tools and methodologies in the ever-evolving field of IT. 🌐💻
