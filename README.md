@@ -23,7 +23,7 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 
 ---
 
-## <img src="https://github.com/ATwoit/ATwoit/blob/main/assets/Q7i2.gif" width="30" height="30" alt="GIF"> Operating Systems | Distributions
+## <img src="https://github.com/ATwoit/ATwoit/blob/main/assets/24S2.gif" width="30" height="30" alt="GIF"> Operating Systems | Distributions
 
 <p align="center">
   <a href="https://skillicons.dev">
