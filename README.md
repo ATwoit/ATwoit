@@ -1,5 +1,7 @@
 ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/header_gif.gif)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Art+challenges+technology%2C+and+technology+inspires+art." alt="Typing SVG" /></a>
+
 
 ## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" height="30" alt="GIF"> Hi there! I'm a DevOps Engineer 
 
@@ -8,17 +10,23 @@
 
 ---
 
-## About me
-I'm passionate about leveraging technology to solve problems and streamline processes. I love learning new tools and methodologies in the ever-evolving field of IT. 🌐💻
-
----
-
-## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats
+## About Me
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" alt="GitHub Stats" width="500" height="210" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" alt="Profile Details" width="500" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" alt="Top Languages" width="665" height="130" />
+  I'm passionate about leveraging technology to solve problems and streamline processes. I love learning new tools and methodologies in the ever-evolving field of IT. 🌐💻
+
+  I specialize in DevOps practices, cloud infrastructure, and automation, always striving to improve efficiency and scalability. My journey in tech has led me to explore various programming languages, frameworks, and tools that allow me to build robust, high-performance systems. 🚀🔧
+
+  Currently, I am focusing on mastering Kubernetes and cloud-native technologies, as well as continuous integration and continuous deployment (CI/CD) pipelines to enhance system reliability and speed. I enjoy collaborating with teams to implement cutting-edge solutions that push the boundaries of what's possible in tech. 💡🤝
+</div>
+
+
+## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats | About Me
+
+<div style="text-align: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" alt="Profile Details"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" alt="Top Languages" />
 </div>
 
 ---
