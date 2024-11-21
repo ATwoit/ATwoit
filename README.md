@@ -1,8 +1,5 @@
 ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/header_gif.gif)
 
-<div align="center">
-  <img src="https://assets6.lottiefiles.com/private_files/lf30_t37yfpam.json" height="150" alt="Animated Icon">
-</div>
 
 ## 👋 Hi there! I'm a DevOps Engineer 
 
@@ -18,58 +15,29 @@ I'm passionate about leveraging technology to solve problems and streamline proc
 
 ## 🌟 GitHub Stats
 
-<div align="center">
+<div style="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" alt="Profile Details" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" alt="Profile Details" />
-</div>
 
 ---
 
-## 🖥️ Operating Systems
+## 🖥️ Operating Systems | Distributions
 
-### Linux Distributions
+[![Operations system](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,debian,arch,)](https://skillicons.dev)
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FEFEFE)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-
-### Windows Operating Systems
-
-![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
-![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=FEFEFE)
-
-### 📦 More Operating Systems
-
-![MacOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white)
 
 ---
 
 ## ⚙️ DevOps Tools
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=FEFEFE)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FEFEFE)
-![Git](https://img.shields.io/badge/-Git-E95437?style=for-the-badge&logo=Git&logoColor=FEFEFE)
-![GitHub](https://img.shields.io/badge/-GitHub-2A3B83?style=for-the-badge&logo=GitHub&logoColor=080808)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=FEFEFE)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FEFEFE)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=FEFEFE)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FEFEFE)
-![Networking](https://img.shields.io/badge/-Networking-0078D6?style=for-the-badge&logo=Network-Manager&logoColor=FEFEFE)
-
----
-
-## 🐍 Programming Languages | Scripting
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FEFEFE)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=FEFEFE)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,jenkins,less,nginx,obsidian,powershell,py,vscode,bash" />
+  </a>
+</p>
 
 ---
 
