@@ -1,6 +1,6 @@
 ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/header_gif.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Art+challenges+technology%2C+and+technology+inspires+art." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Art+challenges+technology%2C+;and+technology+inspires+art." alt="Typing SVG" /></a>
 
 
 ## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" height="30" alt="GIF"> Hi there! I'm a DevOps Engineer 
@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## ![Header](https://github.com/ATwoit/ATwoit/blob/main/assets/TUOk.gif) About Me
 
 <div style="text-align: center;">
   I'm passionate about leveraging technology to solve problems and streamline processes. I love learning new tools and methodologies in the ever-evolving field of IT. 🌐💻
