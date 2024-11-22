@@ -2,8 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Art+challenges+technology%2C+;and+technology+inspires+art." alt="Typing SVG" /></a>
 
-
-## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" height="30" alt="GIF"> Hi there! I'm a DevOps Engineer 
+## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="30" height="30" alt="GIF"> Hi there! I'm a DevOps Engineer
 
 - I am engaged in raising and deploying virtual machines, writing code and scripts for software automation.
 - Setting up network equipment and building topologies. Setting up network and equipment protection.
@@ -20,8 +19,7 @@
   Currently, I am focusing on mastering Kubernetes and cloud-native technologies, as well as continuous integration and continuous deployment (CI/CD) pipelines to enhance system reliability and speed. I enjoy collaborating with teams to implement cutting-edge solutions that push the boundaries of what's possible in tech. 💡🤝
 </div>
 
-
-## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats 
+## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
     <!-- Контейнер для верхнего изображения с гифками -->
@@ -53,7 +51,6 @@
 </div>
 
 <script>
-    // Пример динамической загрузки изображений с GitHub API
     const username = 'ATwoit'; // Имя пользователя на GitHub
 
     function updateImage(src, imgId) {
@@ -68,9 +65,9 @@
 
     // Замените URL на актуальный путь для генерации обновленных картинок
     setInterval(() => {
-        updateImage(`https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=merko`, 'github-stats');
-        updateImage(`https://streak-stats.demolab.com/?user=${username}&theme=highcontrast`, 'github-streak');
-        updateImage(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=vue`, 'profile-details');
+        updateImage(`https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=merko&${new Date().getTime()}`, 'github-stats');
+        updateImage(`https://streak-stats.demolab.com/?user=${username}&theme=highcontrast&${new Date().getTime()}`, 'github-streak');
+        updateImage(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=vue&${new Date().getTime()}`, 'profile-details');
     }, 10000); // Обновление данных каждые 10 секунд
 </script>
 
@@ -80,7 +77,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,debian,arch," />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,debian,arch" />
   </a>
 </p>
 
