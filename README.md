@@ -31,10 +31,10 @@
         <img src="https://github.com/ATwoit/ATwoit/raw/main/assets/daftpunktocat-thomas.gif" 
              alt="Left Animation" 
              style="width: 150px; height: 150px; border-radius: 10px;"/>
-        <!-- Правая нижняя таблица -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
-             alt="GitHub Stats" 
-             style="width: 50%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
+        <!-- Левая нижняя таблица -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
+             alt="Profile Details" 
+             style="width: 45%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
         <!-- Правая гифка -->
         <img src="https://github.com/ATwoit/ATwoit/raw/main/assets/68747470733a2f2f6769742e696e6672612d6c61622e78797a2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34362f646f636b65722d6769662d342e6769663f77696474683d3634.gif" 
              alt="Right Animation" 
@@ -42,10 +42,10 @@
     </div>
     <!-- Контейнер для нижних изображений -->
     <div style="display: flex; gap: 20px; justify-content: center; width: 100%; max-width: 800px;">
-        <!-- Левая нижняя таблица -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
-             alt="Profile Details" 
-             style="width: 45%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
+        <!-- Правая нижняя таблица -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
+             alt="GitHub Stats" 
+             style="width: 50%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
         <!-- Правая нижняя таблица -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" 
              alt="Top Languages" 
