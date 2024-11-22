@@ -23,11 +23,25 @@
 
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats | About Me
 
-<div style="text-align: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" alt="Profile Details"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" alt="Top Languages" />
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
+    <!-- Верхнее изображение -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
+         alt="Profile Details" 
+         style="width: 60%; max-width: 600px; border-radius: 10px;"/>
+
+<!-- Контейнер для нижних изображений -->
+<div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px; width: 100%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
+         alt="GitHub Stats" 
+         style="width: 45%; max-width: 300px; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" 
+         alt="Top Languages" 
+         style="width: 45%; max-width: 300px; border-radius: 10px;"/>
 </div>
+
+
+
 
 ---
 
