@@ -31,7 +31,7 @@
              alt="Left Animation" 
              style="width: 150px; height: 150px; border-radius: 10px;"/>
         <!-- Левая нижняя таблица -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
+        <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
              alt="Profile Details" 
              style="width: 500px; height: 150px; border-radius: 10px; object-fit: contain;"/>
         <!-- Правая гифка -->
@@ -42,15 +42,32 @@
     <!-- Контейнер для нижних изображений (бок о бок) -->
     <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 800px; flex-direction: row;">
         <!-- Правая нижняя таблица -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
+        <img id="github-stats" src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
              alt="GitHub Stats" 
              style="width: 390px; height: 240px; border-radius: 10px; object-fit: contain;"/>
         <!-- Основное изображение -->
-        <img src="https://streak-stats.demolab.com/?user=ATwoit&theme=highcontrast" 
+        <img id="github-streak" src="https://streak-stats.demolab.com/?user=ATwoit&theme=highcontrast" 
              alt="GitHub Streak" 
              style="width: 410px; height: 240px; border-radius: 10px; object-fit: contain;"/>
     </div>
 </div>
+
+<script>
+    // Пример динамической загрузки изображений с GitHub API
+    const username = 'ATwoit'; // Имя пользователя на GitHub
+
+    function updateImage(src, imgId) {
+        document.getElementById(imgId).src = src;
+    }
+
+    // Замените URL на актуальный путь для генерации обновленных картинок
+    setInterval(() => {
+        updateImage(`https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=merko`, 'github-stats');
+        updateImage(`https://streak-stats.demolab.com/?user=${username}&theme=highcontrast`, 'github-streak');
+        updateImage(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=vue`, 'profile-details');
+    }, 10000); // Обновление данных каждые 10 секунд
+</script>
+
 
 
 
