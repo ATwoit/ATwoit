@@ -46,15 +46,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
              alt="GitHub Stats" 
              style="width: 50%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
-        <!-- Правая нижняя таблица -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATwoit&layout=compact&theme=merko" 
-             alt="Top Languages" 
-             style="width: 45%; max-width: 300px; height: 150px; border-radius: 10px; object-fit: contain;"/>
+        <!-- Основное изображение -->
+        <img src="https://streak-stats.demolab.com/?user=ATwoit&theme=highcontrast" 
+             alt="GitHub Streak" 
+             style="width: 50%; max-width: 320px; height: 150px; border-radius: 10px; object-fit: contain;"/>
     </div>
 </div>
-
-
-
 
 
 ---
