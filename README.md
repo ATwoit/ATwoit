@@ -29,26 +29,26 @@
         <!-- Левая гифка -->
         <img src="https://github.com/ATwoit/ATwoit/raw/main/assets/daftpunktocat-thomas.gif" 
              alt="Left Animation" 
-             style="width: 150px; height: 150px; border-radius: 10px;"/>
+             style="width: 150px; height: 150px; border-radius: 10px;" loading="lazy"/>
         <!-- Левая нижняя таблица -->
         <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATwoit&theme=vue" 
              alt="Profile Details" 
-             style="width: 500px; height: 150px; border-radius: 10px; object-fit: contain;"/>
+             style="width: 500px; height: 150px; border-radius: 10px; object-fit: contain;" loading="lazy"/>
         <!-- Правая гифка -->
         <img src="https://github.com/ATwoit/ATwoit/raw/main/assets/68747470733a2f2f6769742e696e6672612d6c61622e78797a2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34362f646f636b65722d6769662d342e6769663f77696474683d3634.gif" 
              alt="Right Animation" 
-             style="width: 150px; height: 150px; border-radius: 10px;"/>
+             style="width: 150px; height: 150px; border-radius: 10px;" loading="lazy"/>
     </div>
     <!-- Контейнер для нижних изображений (бок о бок) -->
     <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 800px; flex-direction: row;">
         <!-- Правая нижняя таблица -->
         <img id="github-stats" src="https://github-readme-stats.vercel.app/api?username=ATwoit&show_icons=true&theme=merko" 
              alt="GitHub Stats" 
-             style="width: 390px; height: 240px; border-radius: 10px; object-fit: contain;"/>
+             style="width: 390px; height: 240px; border-radius: 10px; object-fit: contain;" loading="lazy"/>
         <!-- Основное изображение -->
         <img id="github-streak" src="https://streak-stats.demolab.com/?user=ATwoit&theme=highcontrast" 
              alt="GitHub Streak" 
-             style="width: 410px; height: 240px; border-radius: 10px; object-fit: contain;"/>
+             style="width: 410px; height: 240px; border-radius: 10px; object-fit: contain;" loading="lazy"/>
     </div>
 </div>
 
@@ -57,7 +57,13 @@
     const username = 'ATwoit'; // Имя пользователя на GitHub
 
     function updateImage(src, imgId) {
-        document.getElementById(imgId).src = src;
+        const imgElement = document.getElementById(imgId);
+        imgElement.src = src;
+        
+        // Error handling for image loading
+        imgElement.onerror = function() {
+            console.error(`Failed to load image: ${src}`);
+        };
     }
 
     // Замените URL на актуальный путь для генерации обновленных картинок
@@ -67,10 +73,6 @@
         updateImage(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=vue`, 'profile-details');
     }, 10000); // Обновление данных каждые 10 секунд
 </script>
-
-
-
-
 
 ---
 
