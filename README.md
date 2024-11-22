@@ -50,27 +50,6 @@
     </div>
 </div>
 
-<script>
-    const username = 'ATwoit'; // Имя пользователя на GitHub
-
-    function updateImage(src, imgId) {
-        const imgElement = document.getElementById(imgId);
-        imgElement.src = src;
-        
-        // Error handling for image loading
-        imgElement.onerror = function() {
-            console.error(`Failed to load image: ${src}`);
-        };
-    }
-
-    // Замените URL на актуальный путь для генерации обновленных картинок
-    setInterval(() => {
-        updateImage(`https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=merko&${new Date().getTime()}`, 'github-stats');
-        updateImage(`https://streak-stats.demolab.com/?user=${username}&theme=highcontrast&${new Date().getTime()}`, 'github-streak');
-        updateImage(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${username}&theme=vue&${new Date().getTime()}`, 'profile-details');
-    }, 10000); // Обновление данных каждые 10 секунд
-</script>
-
 ---
 
 ## <img src="https://github.com/ATwoit/ATwoit/blob/main/assets/24S2.gif" width="30" height="30" alt="GIF"> Operating Systems | Distributions
