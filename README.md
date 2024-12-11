@@ -16,7 +16,7 @@
 
   I specialize in DevOps practices, cloud infrastructure, and automation, always striving to improve efficiency and scalability. My journey in tech has led me to explore various programming languages, frameworks, and tools that allow me to build robust, high-performance systems. 🚀🔧
 
-  Currently, I am focusing on mastering Kubernetes and cloud-native technologies, as well as continuous integration and continuous deployment (CI/CD) pipelines to enhance system reliability and speed. I enjoy collaborating with teams to implement cutting-edge solutions that push the boundaries of what's possible in tech. 💡🤝
+  Currently, I am focusing on mastering Kubernetes and cloud-native technologies, as well as continuous integration and continuous deployment pipelines to enhance system reliability and speed. I enjoy collaborating with teams to implement cutting-edge solutions that push the boundaries of what's possible in tech. 💡🤝
 </div>
 
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30" height="30" alt="GitHub Stats"> GitHub Stats
